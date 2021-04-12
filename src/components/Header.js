@@ -39,7 +39,7 @@ const Header = () => {
                     <Avatar
                         className={classes.avatar}
                         src={avatar}
-                        alt="Russel Crowe"
+                        alt="Ridham Suvagiya"
                     />
                 </Grid>
                 <Typography className={classes.title} variant="h4">
